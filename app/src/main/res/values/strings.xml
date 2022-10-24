@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TyLayout3.1</string>
+    <string name="title">Peripherals</string>
+    <string name="scroll">scroll</string>
+    <string name="controller">Controller</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="mouse">Mouse</string>
 </resources>
