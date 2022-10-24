@@ -5,4 +5,9 @@
     <string name="controller">Controller</string>
     <string name="keyboard">Keyboard</string>
     <string name="mouse">Mouse</string>
+    <string name="headphones">Headphones</string>
+    <string name="microphone">Microphone</string>
+    <string name="speaker">Speaker</string>
+    <string name="mousepad">Mousepad</string>
+    <string name="monitor">Monitor</string>
 </resources>
